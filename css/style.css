@@ -6,16 +6,20 @@ h1{
     margin: 20px 0 20px 0;
 }
 .content1{
-    background: linear-gradient(#0d1a23, #5a6262);
+    background: linear-gradient(#45484a, #65727c);
     width: 320px;
     height: 900px;
     float: left;
-    margin: 0 0 100px 200px;
+    margin: 0 0 100px 150px;
+    color: white;
+    font-family:sans-serif;
 }
 .QR{
-    float: left;
+    position: absolute; 
     width: 100px;
     height: 100px;
+    margin: 0 0 0 1620px;
+    
 }
 .foto{
     float: left;
@@ -25,6 +29,7 @@ h1{
 }
 .content2{
     float: left;
+    font-family:sans-serif;
 }
 .textizq{
     margin: 0 0 0 50px;
@@ -32,6 +37,6 @@ h1{
 .Titulob{
     background:#82b1ff;
     height: 30px;
-    margin: 50px 5% 50px 0;
+    margin: 50px 10% 50px 0;
     padding: 20px  0 10px 0;
 }
